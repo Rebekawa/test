@@ -2,7 +2,7 @@ class TestYourself {
   public static void main(String args[]) {
     
    java.util.Scanner in = new java.util.Scanner(System.in);
-  System.out.println("Welcome to the 'Are you a social media addict?' quiz");
+  System.out.println("Welcome to the 'Are you a social media addict?' quiz 222");
   System.out.println("*************************************");
   System.out.println("Question 1");
   System.out.println("—————");
